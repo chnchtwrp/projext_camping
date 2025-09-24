@@ -2,5 +2,5 @@
   "version": 3,
   "sources": [],
   "sections": [
-    {"offset": {"line": 8, "column": 0}, "map": {"version":3,"sources":["file:///G:/Coding/workshop/projext_camping/app/camp/page.tsx"],"sourcesContent":["type Props = {};\r\nconst camp = (props: Props) => {\r\n  return <div>Camp Page</div>;\r\n};\r\nexport default camp;\r\n"],"names":[],"mappings":";;;;;;AACA,MAAM,OAAO,CAAC;IACZ,qBAAO,8OAAC;kBAAI;;;;;;AACd;uCACe","debugId":null}}]
+    {"offset": {"line": 8, "column": 0}, "map": {"version":3,"sources":["file:///G:/Coding/workshop/projext_camping/app/camp/page.tsx"],"sourcesContent":["type Props = {};\r\nconst camp = (props: Props) => {\r\n  return <div>Camp Page</div>;\r\n};\r\nexport default camp;\r\n"],"names":[],"mappings":";;;;;;AACA,MAAM,OAAO,CAAC;IACZ,qBAAO,6WAAC;kBAAI;;;;;;AACd;uCACe","debugId":null}}]
 }
