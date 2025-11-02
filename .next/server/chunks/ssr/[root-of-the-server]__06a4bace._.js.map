@@ -2,5 +2,5 @@
   "version": 3,
   "sources": [],
   "sections": [
-    {"offset": {"line": 8, "column": 0}, "map": {"version":3,"sources":["file:///G:/Coding/workshop/projext_camping/app/page.tsx"],"sourcesContent":["import { Button } from \"@/components/ui/button\";\n\ntype Props = {};\n\nconst homePage = (props: Props) => {\n  return (\n    <div>\n      Home Page\n      <Button variant={\"outline\"} size={\"lg\"} className=\"bg-primary\">\n        Hello Home Page\n      </Button>\n    </div>\n  );\n};\n\nexport default homePage;\n"],"names":[],"mappings":";;;;;AAAA;;;AAIA,MAAM,WAAW,CAAC;IAChB,qBACE,6WAAC;;YAAI;0BAEH,6WAAC,qIAAM;gBAAC,SAAS;gBAAW,MAAM;gBAAM,WAAU;0BAAa;;;;;;;;;;;;AAKrE;uCAEe","debugId":null}}]
+    {"offset": {"line": 8, "column": 0}, "map": {"version":3,"sources":["file:///G:/Coding/workshop/projext_camping/app/page.tsx"],"sourcesContent":["import { Button } from \"@/components/ui/button\";\n\ntype Props = {};\n\nconst homePage = (props: Props) => {\n  return (\n    <div>\n      Home Page\n      <Button variant={\"outline\"} size={\"lg\"} className=\"bg-primary\">\n        Hello Home Page\n      </Button>\n    </div>\n  );\n};\n\nexport default homePage;\n"],"names":[],"mappings":";;;;;AAAA;;;AAIA,MAAM,WAAW,CAAC;IAChB,qBACE,8OAAC;;YAAI;0BAEH,8OAAC,qIAAM;gBAAC,SAAS;gBAAW,MAAM;gBAAM,WAAU;0BAAa;;;;;;;;;;;;AAKrE;uCAEe","debugId":null}}]
 }

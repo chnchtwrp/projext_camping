@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///G:/Coding/workshop/projext_camping/app/profile/create/page.tsx"],"sourcesContent":["import { Button } from \"@/components/ui/button\";\r\n\r\ntype Props = {};\r\n\r\nconst createProfileAction = async (formData: FormData) => {\r\n  \"use server\";\r\n  const firstName = formData.get(\"firstName\") as string;\r\n  console.log(\"Create Profile !!!\", firstName);\r\n};\r\n\r\nconst createProfile = (props: Props) => {\r\n  return (\r\n    <section>\r\n      <h1 className=\"text-2xl font-semibold mb-8 capitalize\">New User</h1>\r\n      <div className=\"border p-6 rounded-lg max-w-md\">\r\n        <form action={createProfileAction}>\r\n          <Button type=\"submit\" size={\"lg\"}>\r\n            Create Profile\r\n          </Button>\r\n        </form>\r\n      </div>\r\n    </section>\r\n  );\r\n};\r\nexport default createProfile;\r\n"],"names":[],"mappings":";;;;;;;;AAAA;;;;MAI4B,uCAAtB,oBAA6B;IAEjC,MAAM,YAAY,SAAS,GAAG,CAAC;IAC/B,QAAQ,GAAG,CAAC,sBAAsB;AACpC;AAJ4B,8WAAA;AAA5B,MAAM,sBAAsB;AAM5B,MAAM,gBAAgB,CAAC;IACrB,qBACE,6WAAC;;0BACC,6WAAC;gBAAG,WAAU;0BAAyC;;;;;;0BACvD,6WAAC;gBAAI,WAAU;0BACb,cAAA,6WAAC;oBAAK,QAAQ;8BACZ,cAAA,6WAAC,qIAAM;wBAAC,MAAK;wBAAS,MAAM;kCAAM;;;;;;;;;;;;;;;;;;;;;;AAO5C;uCACe","debugId":null}}]
+}

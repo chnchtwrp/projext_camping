@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 8, "column": 0}, "map": {"version":3,"sources":["file:///G:/Coding/workshop/projext_camping/app/profile/page.tsx"],"sourcesContent":["type Props = {};\r\nconst profile = (props: Props) => {\r\n  return <div>Profile Page</div>;\r\n};\r\nexport default profile;\r\n"],"names":[],"mappings":";;;;;;AACA,MAAM,UAAU,CAAC;IACf,qBAAO,6WAAC;kBAAI;;;;;;AACd;uCACe","debugId":null}}]
+}
