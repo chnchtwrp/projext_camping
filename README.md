@@ -1,2 +1,2 @@
 supabase Camping Project password
-pass : LfDUksX5zTzlVCYC
+pass : uSADylfkA2tsXnH7
